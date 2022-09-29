@@ -1,0 +1,3 @@
+ng build --configuration production --base-href "https://Sonkhe-1331.github.io/2"
+
+angular-cli-ghpages
